@@ -31,14 +31,16 @@ career:
    company: Coffrage du Vallon
    location: Vitrolles, France
    dates: October 2014 – March 2015
-   summary:
+   summary: Formwork production
    accomplishments:
  - position: Interim
-   company: Planete Tortue, Auchan, Coffrage du Vallon, ..
+   company: Planete Tortue, Auchan, ..
    location: France
    dates: October 2013 – October 2014
-   summary:
-   accomplishments:
+   summary: Interim tasks
+   accomplishments
+    - accomplishment: Order preparations
+    - accomplishment: Handling
  - position: Aeronautical Manufacturing Technician
    company: SII - Bonnans group
    location: Marseille, France
