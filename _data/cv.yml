@@ -52,12 +52,12 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "Autonomous and resourceful"
+    - tr: "Quickly effective"
+    - tr: "Ability to work in a team"
+    - tr: "Knowledge of many languages and stacks"
+    - tr: "Passionate about development and coding"
+    - tr: "Rigorous"
   backend:
    - name: C/C++
      level: 90
@@ -77,21 +77,31 @@ technicalSkills:
      level: 80
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
+  - name: sv
+    description: C implementation of semantic versioning (parsing and validation) released on the Public domain
+    link: https://github.com/uael/sv
     type: github
-    langs: HTML/CSS/Bootstrap
+    langs: C
 
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+  - name: 42sh
+    description: Bash like UNIX shell command line intepreter written in C99 released on the Public domain
+    link: https://github.com/uael/42sh
+    type: github
+    langs: C/Shell
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: DUT of Computer Science
+    degree: BAC+2
+    location: Sophia Antipolis, France
+    dates: 2015 – 2017
+    link: http://unice.fr/iut/departements-denseignements/info/formations-1
+  - name: DUT of Engineering
+    degree: BAC+2
+    location: Aix-en-Provence, France
+    dates: 2011 – 2013
+    link: https://iut.univ-amu.fr/departements/genie-mecanique-productique-gmp
+  - name: High school
+    degree: Baccalaureate STI
+    location: "L'isle sur la sorgue, France"
+    dates: 2009 – 2011
+    link: http://www.lyc-benoit.ac-aix-marseille.fr/spip/
