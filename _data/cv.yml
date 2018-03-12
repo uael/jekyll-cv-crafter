@@ -1,19 +1,19 @@
-url: http://streetturtle.github.io
+https://uael.github.io/
 projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Abel Lucas
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  profession: System developer
+  location: Paris
+  citizenship: France
+  email: lucas.abel@ya.ru
+  site: https://uael.github.io/
+  phone: +336 51 12 76 66
+  github: /uael
+  stackoverflow:
+  linkedin:
 
 career:
  - position: Foot Clan Antagonist
