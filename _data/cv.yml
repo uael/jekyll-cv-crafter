@@ -75,6 +75,18 @@ sideProjects:
     type: github
     langs: C/Shell
 
+  - name: ft_printf
+    description: IO stream C implementation and printf recoding
+    link: https://github.com/uael/ft_printf
+    type: github
+    langs: C
+
+  - name: ucc/uds
+    description: Uael platform independent C Data Structures abstraction
+    link: https://github.com/uael/uds
+    type: github
+    langs: C
+    
 education:
   - name: DUT of Computer Science
     degree: BAC+2
