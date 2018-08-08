@@ -68,8 +68,8 @@ technicalSkills:
      level: 90
    - name: Shell
      level: 80
-   - name: Kernel
-     level: 50
+   - name: Cross-platform development
+     level: 80
 
 sideProjects:
   - name: sv
