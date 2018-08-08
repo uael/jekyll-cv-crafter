@@ -5,7 +5,7 @@ projectUrl: jekyl-cv-crafter
 person:
   name: Abel Lucas
   depiction: headshot.png
-  profession: System developer
+  profession: Embedded developer
   location: Paris
   citizenship: France
   email: lucas.abel@ya.ru
@@ -16,6 +16,11 @@ person:
   linkedin:
 
 career:
+ - position: Embedded software developer
+   company: Tempow
+   location: Paris, France
+   dates: April 2018 - Now
+   summary: Embedded development around the bluetooth stack
  - position: Full stack developer
    company: Easyparapharmacie.com
    location: Nice, France
@@ -47,20 +52,24 @@ technicalSkills:
   backend:
    - name: C/C++
      level: 90
-   - name: C#
-     level: 70
-   - name: NodeJS
+   - name: Rust
      level: 60
+   - name: Other
+     level: 50
   frontend:
-   - name: Angular 2
+   - name: ncurses
      level: 70
-   - name: HTML/JS/CSS
+   - name: SDL2
+     level: 60
+   - name: OpenGL/CL
      level: 60
   other:
    - name: UNIX
      level: 90
    - name: Shell
      level: 80
+   - name: Kernel
+     level: 50
 
 sideProjects:
   - name: sv
